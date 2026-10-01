@@ -1,0 +1,8 @@
+{
+  "name": "kitest-edu",
+  "description": "kitest-edu - O'quv platformasi, olimpiada testlari, ko'p tilli dasturlash laboratoriyasi, o'yinlar, reytinglar va jonli chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

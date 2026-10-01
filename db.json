@@ -1,0 +1,194 @@
+{
+  "resetRequests": {},
+  "activeEvent": null,
+  "eventsHistory": [],
+  "customRanks": [
+    {
+      "tier": "Pupil",
+      "uzName": "Pupil (O'quvchi)",
+      "minRating": 0,
+      "badge": "🌱",
+      "color": "text-slate-300",
+      "border": "border-slate-600",
+      "bgGradient": "from-slate-700 to-slate-800",
+      "textGradient": "from-slate-200 to-slate-400",
+      "description": "Ilm yo'lidagi ilk qadamlar, boshlang'ich darslarni o'rganish bosqichi."
+    },
+    {
+      "tier": "Apprentice",
+      "uzName": "Apprentice (Shogird)",
+      "minRating": 50,
+      "badge": "⚡",
+      "color": "text-emerald-400",
+      "border": "border-emerald-500/40",
+      "bgGradient": "from-emerald-950 to-slate-900",
+      "textGradient": "from-emerald-300 to-teal-400",
+      "description": "Dastlabki fanlardan muvaffaqiyatli testlarni yechgan iqtidorli shogird."
+    },
+    {
+      "tier": "Specialist",
+      "uzName": "Specialist (Mutaxassis)",
+      "minRating": 150,
+      "badge": "🎯",
+      "color": "text-cyan-400",
+      "border": "border-cyan-500/40",
+      "bgGradient": "from-cyan-950 to-slate-900",
+      "textGradient": "from-cyan-300 to-blue-400",
+      "description": "Bir nechta fanlardan asosiy qoidalar va darslarni muvaffaqiyatli o'zlashtirgan."
+    },
+    {
+      "tier": "Expert",
+      "uzName": "Expert (Ekspert)",
+      "minRating": 300,
+      "badge": "💎",
+      "color": "text-blue-400",
+      "border": "border-blue-500/40",
+      "bgGradient": "from-blue-950 to-slate-900",
+      "textGradient": "from-blue-300 to-indigo-400",
+      "description": "Darsliklarni chuqur o'rganib, test va masalalarni barqaror yechuvchi bilimdon."
+    },
+    {
+      "tier": "Candidate Master",
+      "uzName": "Candidate Master (CM)",
+      "minRating": 500,
+      "badge": "🔮",
+      "color": "text-purple-400",
+      "border": "border-purple-500/50",
+      "bgGradient": "from-purple-950 to-slate-900",
+      "textGradient": "from-purple-300 to-pink-400",
+      "description": "Barcha fanlar dasturini yuqori darajada o'zlashtirgan yuqori toifali nomzod."
+    },
+    {
+      "tier": "Master",
+      "uzName": "Master (Usta)",
+      "minRating": 800,
+      "badge": "⭐",
+      "color": "text-amber-400",
+      "border": "border-amber-500/50",
+      "bgGradient": "from-amber-950 to-slate-900",
+      "textGradient": "from-amber-300 to-orange-400",
+      "description": "Muntazam amaliyot bilan yuzlab masalalarni hal qilgan bilim ustasi."
+    },
+    {
+      "tier": "International Master",
+      "uzName": "International Master (IM)",
+      "minRating": 1200,
+      "badge": "👑",
+      "color": "text-rose-400",
+      "border": "border-rose-500/60",
+      "bgGradient": "from-rose-950 to-slate-900",
+      "textGradient": "from-rose-400 via-orange-300 to-amber-300",
+      "description": "Xalqaro standartdagi eng yuqori ilmiy natijalarga erishgan intellektual etakchi."
+    },
+    {
+      "tier": "Grandmaster",
+      "uzName": "Grandmaster (Grossmeyster)",
+      "minRating": 1800,
+      "badge": "🔥",
+      "color": "text-red-400",
+      "border": "border-red-500/70",
+      "bgGradient": "from-red-950 to-slate-900",
+      "textGradient": "from-red-300 via-yellow-300 to-amber-400",
+      "description": "Mintaqaviy va platformadagi barcha qiyin olimpiada darajasidagi testlarni yenggan."
+    },
+    {
+      "tier": "Legendary G.O.A.T.",
+      "uzName": "Legendary G.O.A.T.",
+      "minRating": 2500,
+      "badge": "🌌",
+      "color": "text-yellow-300",
+      "border": "border-yellow-400/80 shadow-[0_0_20px_rgba(250,204,21,0.3)]",
+      "bgGradient": "from-yellow-950 via-slate-900 to-amber-950",
+      "textGradient": "from-yellow-200 via-amber-300 to-orange-400",
+      "description": "Barcha zamonlarning eng buyuk bilimdoni! 100% darslar va rekord darajadagi natijalar egasi."
+    }
+  ],
+  "users": {
+    "admin": {
+      "username": "admin",
+      "email": "xojayevistam16@gmail.com",
+      "password": "admin",
+      "avatar": "👑",
+      "bio": "kitest-edu Asosiy Boshqaruvchisi va Bosh Hakam (Chief Judge)",
+      "followers": [],
+      "following": [],
+      "claimedMilestones": [
+        500,
+        1000
+      ],
+      "coins": 5000,
+      "wheelSpins": 3,
+      "lastSpinDate": "Thu Oct 01 2026",
+      "superWheelSpins": 5,
+      "lastSuperSpinDate": "Thu Oct 01 2026",
+      "bannedUntil": null,
+      "helper": false,
+      "isAdmin": true,
+      "createdAt": 1790792689200,
+      "completedLessons": [
+        "mat-1",
+        "mat-2",
+        "mat-3",
+        "mat-4",
+        "inf-1",
+        "inf-2",
+        "inf-3",
+        "fiz-1",
+        "fiz-2",
+        "eng-1",
+        "eng-2"
+      ],
+      "solvedProblemsCount": 280,
+      "dailyChallengeStreak": 18,
+      "bonusRating": 1500,
+      "unlockedAvatars": [
+        "👑",
+        "💻",
+        "⚡",
+        "🌟",
+        "🔮",
+        "🎓"
+      ],
+      "dailyChallengeDate": "",
+      "dailyChallengeCompleted": false,
+      "dailyChallengeWon": false
+    }
+  },
+  "chat": [
+    {
+      "id": "welcome-msg-1",
+      "user": "admin",
+      "text": "Assalomu alaykum! kitest-edu rasmiy ta'lim va bilimlar portaliga xush kelibsiz! 🚀",
+      "ts": 1790792689200,
+      "role": "ADMIN",
+      "avatar": "👑"
+    }
+  ],
+  "reels": [],
+  "customQuestions": [],
+  "customTopics": [],
+  "customGames": [
+    {
+      "id": "game-snake",
+      "title": "Koinot Iloni (Space Snake)",
+      "description": "Neon koinotida ilonni boshqaring, yulduzlarni yeng va tanga to'plang!",
+      "icon": "🐍",
+      "price": 5,
+      "reward": 15,
+      "author": "admin",
+      "ts": 1790792689200,
+      "code": "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    * { margin:0; padding:0; box-sizing:border-box; user-select:none; }\n    body { background: #070314; color: #fff; font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; overflow: hidden; padding: 10px; }\n    #hud { display: flex; justify-content: space-between; width: 320px; margin-bottom: 8px; font-weight: bold; font-size: 14px; color: #38bdf8; }\n    canvas { background: #0f172a; border: 2px solid #38bdf8; border-radius: 12px; box-shadow: 0 0 20px rgba(56,189,248,0.3); }\n    .controls { display: grid; grid-template-columns: repeat(3, 50px); gap: 6px; margin-top: 10px; }\n    .btn { background: #1e293b; border: 1px solid #475569; color: #fff; font-size: 18px; border-radius: 8px; height: 42px; display: flex; align-items: center; justify-content: center; cursor: pointer; }\n    .btn:active { background: #38bdf8; color: #000; }\n    #msg { margin-top: 6px; font-size: 12px; color: #a7f3d0; text-align: center; }\n  </style>\n</head>\n<body>\n  <div id=\"hud\"><span>Ball: <span id=\"score\">0</span></span><span>Rekord: <span id=\"high\">0</span></span></div>\n  <canvas id=\"c\" width=\"320\" height=\"320\"></canvas>\n  <div class=\"controls\">\n    <div></div><button class=\"btn\" onclick=\"setDir(0,-1)\">⬆️</button><div></div>\n    <button class=\"btn\" onclick=\"setDir(-1,0)\">⬅️</button><button class=\"btn\" onclick=\"setDir(0,1)\">⬇️</button><button class=\"btn\" onclick=\"setDir(1,0)\">➡️</button>\n  </div>\n  <div id=\"msg\">Klaviatura strelkalari yoki tugmalar orqali boshqaring!</div>\n  <script>\n    const cvs = document.getElementById('c'), ctx = cvs.getContext('2d');\n    const grid = 16, cols = 20, rows = 20;\n    let snake = [{x:10, y:10}], dir = {x:1, y:0}, food = {x:15, y:10}, score = 0, high = 0, running = true;\n    function randFood() { food = {x: Math.floor(Math.random()*cols), y: Math.floor(Math.random()*rows)}; }\n    function setDir(x,y) { if ((x && x === -dir.x) || (y && y === -dir.y)) return; dir = {x, y}; }\n    window.addEventListener('keydown', e => {\n      if (e.key === 'ArrowUp') setDir(0,-1);\n      if (e.key === 'ArrowDown') setDir(0,1);\n      if (e.key === 'ArrowLeft') setDir(-1,0);\n      if (e.key === 'ArrowRight') setDir(1,0);\n    });\n    function loop() {\n      if (!running) return;\n      const head = {x: snake[0].x + dir.x, y: snake[0].y + dir.y};\n      if (head.x < 0 || head.x >= cols || head.y < 0 || head.y >= rows || snake.some(s => s.x===head.x && s.y===head.y)) {\n        if (score >= 5) {\n          window.parent.postMessage({ type: 'GAME_WIN', score: score }, '*');\n        }\n        document.getElementById('msg').innerHTML = '<span style=\"color:#f87171\">O\\'yin tugadi! Qaytadan: Boshlash uchun strelka bosing</span>';\n        snake = [{x:10,y:10}]; dir={x:1,y:0}; score=0;\n        document.getElementById('score').innerText = score;\n      } else {\n        snake.unshift(head);\n        if (head.x === food.x && head.y === food.y) {\n          score += 1;\n          if (score > high) { high = score; document.getElementById('high').innerText = high; }\n          document.getElementById('score').innerText = score;\n          randFood();\n          if (score === 5) {\n            window.parent.postMessage({ type: 'GAME_WIN', score: score }, '*');\n          }\n        } else {\n          snake.pop();\n        }\n      }\n      ctx.fillStyle = '#0f172a'; ctx.fillRect(0,0,cvs.width,cvs.height);\n      ctx.fillStyle = '#fbbf24'; ctx.beginPath(); ctx.arc(food.x*grid+grid/2, food.y*grid+grid/2, grid/2.2, 0, Math.PI*2); ctx.fill();\n      snake.forEach((s, idx) => {\n        ctx.fillStyle = idx === 0 ? '#38bdf8' : '#818cf8';\n        ctx.fillRect(s.x*grid+1, s.y*grid+1, grid-2, grid-2);\n      });\n      setTimeout(loop, Math.max(70, 140 - score*4));\n    }\n    randFood(); loop();\n  </script>\n</body>\n</html>"
+    },
+    {
+      "id": "game-flappy",
+      "title": "Koinot Flappy (Flappy Rocket)",
+      "description": "Raketani teginish orqali to'siqlardan o'tkazing va yulduzlarni zabt eting!",
+      "icon": "🚀",
+      "price": 10,
+      "reward": 20,
+      "author": "admin",
+      "ts": 1790792689200,
+      "code": "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    * { margin:0; padding:0; box-sizing:border-box; user-select:none; }\n    body { background: #070314; color: #fff; font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; overflow: hidden; padding: 10px; }\n    #hud { display: flex; justify-content: space-between; width: 300px; margin-bottom: 8px; font-weight: bold; font-size: 14px; color: #a855f7; }\n    canvas { background: #0b0720; border: 2px solid #a855f7; border-radius: 12px; box-shadow: 0 0 20px rgba(168,85,247,0.3); touch-action: none; }\n    #hint { margin-top: 8px; font-size: 12px; color: #cbd5e1; }\n  </style>\n</head>\n<body onclick=\"flap()\" ontouchstart=\"flap()\">\n  <div id=\"hud\"><span>Ball: <span id=\"score\">0</span></span><span>Rekord: <span id=\"high\">0</span></span></div>\n  <canvas id=\"c\" width=\"300\" height=\"380\"></canvas>\n  <div id=\"hint\">Ekranga bosing yoki bo'shliq (Space) tugmasini bosing! 🚀</div>\n  <script>\n    const cvs = document.getElementById('c'), ctx = cvs.getContext('2d');\n    let ry = 180, rvy = 0, pipes = [], score = 0, high = 0, frame = 0, dead = false;\n    function flap() {\n      if (dead) { ry = 180; rvy = 0; pipes = []; score = 0; dead = false; document.getElementById('score').innerText = 0; return; }\n      rvy = -5.2;\n    }\n    window.addEventListener('keydown', e => { if (e.code === 'Space') flap(); });\n    function loop() {\n      frame++;\n      ctx.fillStyle = '#0b0720'; ctx.fillRect(0,0,cvs.width,cvs.height);\n      if (!dead) {\n        rvy += 0.28; ry += rvy;\n        if (frame % 85 === 0) {\n          const gap = 115, top = 40 + Math.random()*(cvs.height - gap - 80);\n          pipes.push({ x: cvs.width, top: top, bottom: top + gap, scored: false });\n        }\n      }\n      pipes.forEach(p => {\n        if (!dead) p.x -= 2.2;\n        ctx.fillStyle = '#22c55e';\n        ctx.fillRect(p.x, 0, 36, p.top);\n        ctx.fillRect(p.x, p.bottom, 36, cvs.height - p.bottom);\n        if (!p.scored && p.x + 36 < 45) {\n          p.scored = true; score++; document.getElementById('score').innerText = score;\n          if (score > high) { high = score; document.getElementById('high').innerText = high; }\n          if (score === 5) window.parent.postMessage({ type: 'GAME_WIN', score: score }, '*');\n        }\n        if (!dead && p.x < 65 && p.x + 36 > 45) {\n          if (ry < p.top || ry + 20 > p.bottom) {\n            dead = true;\n            if (score >= 3) window.parent.postMessage({ type: 'GAME_WIN', score: score }, '*');\n          }\n        }\n      });\n      pipes = pipes.filter(p => p.x > -50);\n      if (ry > cvs.height - 20 || ry < 0) { dead = true; }\n      ctx.font = '24px sans-serif'; ctx.fillText('🚀', 45, ry + 16);\n      if (dead) {\n        ctx.fillStyle = 'rgba(0,0,0,0.6)'; ctx.fillRect(0,0,cvs.width,cvs.height);\n        ctx.fillStyle = '#f43f5e'; ctx.font = 'bold 20px sans-serif'; ctx.fillText('O\\'yin tugadi!', 85, 170);\n        ctx.fillStyle = '#fff'; ctx.font = '13px sans-serif'; ctx.fillText('Boshlash uchun bosing', 80, 205);\n      }\n      requestAnimationFrame(loop);\n    }\n    loop();\n  </script>\n</body>\n</html>"
+    }
+  ]
+}
